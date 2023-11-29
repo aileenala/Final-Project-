@@ -1,6 +1,6 @@
 # Final-Project-
 
-In our group's final project, we identify the best Pittsburgh neighborhood to live in based on school enrollment, enviroment and safety.
+In our group's final project, we identify the best Pittsburgh neighborhood to live in based on school enrollment, environment and safety.
 
 Canvas Group Number- 30
 
